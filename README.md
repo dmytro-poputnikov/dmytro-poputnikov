@@ -18,11 +18,6 @@
 - 📚 &nbsp; I got a lot of information from this course: https://codewithmosh.com/
 - 👦🏻 &nbsp; I like to play Call Of Duty sometimes
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DimaP Spotify Playing" width="350" />](https://open.spotify.com/user/snqdaqufb0t927unw70f8bbv5)
-
-
 
 ### 🔨 Languages and Tools:
 
@@ -39,5 +34,13 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height='42px'></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img align="left" alt="Flask" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height='42px'></a>
 <br>
+
+
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DimaP Spotify Playing" width="350" />](https://open.spotify.com/user/snqdaqufb0t927unw70f8bbv5)
+
+
 
 
