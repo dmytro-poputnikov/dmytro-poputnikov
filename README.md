@@ -27,10 +27,10 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img align="left" alt="Flask" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height='42px'></a>
 <img align="left" alt="GraphQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
-<br>
+<br/>
+<br/>
 
-
-### 💬 I took many courses which helped me a lot:
+### 💬 Courses which helped me a lot:
 
 Code with Mosh:
 - [Angular 4: Beginner to Pro](https://codewithmosh.com/courses/enrolled/206545)
