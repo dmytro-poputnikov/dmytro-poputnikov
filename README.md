@@ -15,7 +15,7 @@
 -  &nbsp; I am an Automation Engineer, which is related to PLC programming, web-servers, electrical circuits, networks, documentation... 
 -  &nbsp; I actively study web technologies. It is very interesting to connect the world of automation with modern web tools.
 -  &nbsp; Visual Studio Code is My Favorite Text Editor
-- :droplet: &nbsp; Originally from Ukrainian, now based in Poland
+-  &nbsp; Originally from Ukrainian, now based in Poland
 
 
 ###  Languages and Tools:
