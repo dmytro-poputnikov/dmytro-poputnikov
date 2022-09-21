@@ -9,16 +9,16 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="360px"/>
   
-### 🧐 More About Me:
+###  More About Me:
 
 
-- 🤖 &nbsp; I am an Automation Engineer, which is related to PLC programming, web-servers, electrical circuits, networks, documentation... 
-- ⚡ &nbsp; I actively study web technologies. It is very interesting to connect the world of automation with modern web tools.
-- 💬 &nbsp; Visual Studio Code is My Favorite Text Editor
+-  &nbsp; I am an Automation Engineer, which is related to PLC programming, web-servers, electrical circuits, networks, documentation... 
+-  &nbsp; I actively study web technologies. It is very interesting to connect the world of automation with modern web tools.
+-  &nbsp; Visual Studio Code is My Favorite Text Editor
 - :droplet: &nbsp; Originally from Ukrainian, now based in Poland
 
 
-### 🔨 Languages and Tools:
+###  Languages and Tools:
 
 
 <a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="firebase" height ="42px"/> </a>
