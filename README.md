@@ -6,7 +6,6 @@
 
 <br/>
 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="360px"/>
   
 ###  More About Me:
@@ -26,6 +25,14 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height='42px'></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img align="left" alt="Flask" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height='42px'></a>
 <img align="left" alt="GraphQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+
+<br/>
+<br/>
+
+## Some of my Github Stats
+
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dmytro-poputnikov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dmytro-poputnikov&layout=compact)](https://github.com/pedes/github-readme-stats)
 
 <br/>
 <br/>
