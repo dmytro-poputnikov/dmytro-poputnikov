@@ -2,7 +2,7 @@
 
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-poputnikov-056b44134/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dima-poputnikov-056b44134/)
 
 <br/>
 
