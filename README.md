@@ -7,17 +7,17 @@ Hello, I’m an automation engineer turned web developer. With 6+ years of exper
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350px" style="margin-left: 100px"/>
 
+<div style="display: flex; align-items: center; gap: 24px; justify-content: center">
+  <img alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350px"  />
+</div>
 
 ## Some of my Github Stats
-<div style="display: flex; width: 100%; gap: 24px;">
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dmytro-poputnikov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dmytro-poputnikov&layout=compact)](https://github.com/pedes/github-readme-stats)
 
-  [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dmytro-poputnikov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dmytro-poputnikov&layout=compact)](https://github.com/pedes/github-readme-stats)
 
-</div>
 
 
 
