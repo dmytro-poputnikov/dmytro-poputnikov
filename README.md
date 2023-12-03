@@ -7,7 +7,7 @@ Hello, I’m an automation engineer turned web developer. With 6+ years of exper
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350px" style="margin-left: 100px"/>
 
 
 ## Some of my Github Stats
