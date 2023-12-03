@@ -1,7 +1,7 @@
 # Hi there, I'm Dima 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twoj-link/)](https://www.linkedin.com/in/twoj-link/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&link=https://www.twoj-portfolio.com/)](https://www.twoj-portfolio.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/twoj-link/)]([https://www.linkedin.com/in/twoj-link/](https://www.linkedin.com/in/dima-poputnikov-056b44134/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&link=https://www.twoj-portfolio.com/)]([https://www.twoj-portfolio.com/](https://dmytro-poputnikov.com/))
 
 Hello, I’m an automation engineer turned web developer. With 6+ years of experience, I specialize in creating modern and user-friendly web and mobile applications. Check out my [portfolio](https://dmytro-poputnikov.com/) for a glimpse into my work, ranging from innovative automation solutions to responsive apps. Let’s talk about bringing your web projects to life!
 
